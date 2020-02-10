@@ -4,7 +4,7 @@
 Nordic Energy connects you digitally directly to the green source of your choice. We buy your electricity from the selected producer and ensure that the corresponding amount of green electricity is produced and fed into the electricity grid. For this we use the most modern blockchain technology, which allows us to avoid unnecessary detours via middlemen and power exchanges. This makes green electricity significantly cheaper, producers generate higher yields, and the electricity grid becomes a little greener with every new Nordic Energy customer.
 
 
-## We bring significant benefits and innovation: 
+### We bring significant benefits and innovation: 
 
 Building an new generation energy infrastructure to bridge renewable energy producers’ output and traditional energy grid operators to accelerate a worldwide transition towards a 100% renewable energy future. With renewable energy supply chains, and operational management for energy industry. Supplying energy to homes across the globe, making electricity through generation transporting clean energy and electricity and selling it to the customers.
 
@@ -41,16 +41,12 @@ However, that process retains the existing dynamic of the electricity markets, c
 PowerChain is Peer-to-Peer electricity blockchain trading platform to achieve transparent, stable electricity trading for creating, digital assets and currencies. Our multiple technologies with blockchains, cross-platform technologies and protocols fuels industries work in concert across the energy ecosystem to provide energy in the form and quantity required, with desired reliability at the lowest possible cost. The Nordic Energy ecosystem can be segmented into fuel extraction and refining, fuel peer-to-peer energy trading, delivery, storage, electricity generation, transmission and distribution and electrical consumption by tokenizing energy industry.
 
 
-#### Architecture: 
+### Architectures
 
 PowerChain platform architecture is a highly scalable, next generation blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 PowerChain is a direct consumer and digital energy marketplace connects with producers of renewable energies. Without detours and unnecessary additional costs. Our several projects and utilities around the world have already start developing pilots and considering projects to test this possibility.
 
-
-### Energy certificates via smart contract based blockchain technologies
-
-Nordic Energy (Trading Company) is responsible for the production, purchase and selling of energy and energy certificates via smart contract based blockchain technologies. We use blockchain technology for a broad range of our businesses, decentralized applications, supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
 
 
 #### 1. Decentralized Energy Marketplace:
@@ -64,7 +60,13 @@ Nordic Energy digital energy platform gives customers direct access to independe
 
 Nordic Energy developing an app that enables energy trading between consumers in a neighborhood within the borough. Nordic Energy, a European startup, is focusing on the energy exchange platform of granular and private data between different parties within the energy market.
 
-#### 3.Hybrid Token Offering (HTO) & Token Sales Launcher
+
+#### 3. Energy certificates via smart contract based blockchain technologies
+
+Nordic Energy (Trading Company) is responsible for the production, purchase and selling of energy and energy certificates via smart contract based blockchain technologies. We use blockchain technology for a broad range of our businesses, decentralized applications, supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
+
+
+#### 4. Hybrid Token Offering (HTO) & Token Sales Launcher
 
 (need more time for the developments/upgrading to this Platform supported only NET Token.
 
@@ -83,7 +85,8 @@ Smart Contract aims to provide a novel blockchain solution to meet the speed and
 
 Combined with its efficient and environmentally-friendly consensus, Nordic Energy (NESC) exists as a stable coin that functions as a decentralized finance (DeFi). 
 
-#### Nordic Energy uses a multi-token system: 
+
+##### Nordic Energy uses a multi-token system: 
 
 NESC - Stable price, perfect for store and transfer value, growing supply
 NET - Deflation model, pre-mined, limited supply, growing price
@@ -92,10 +95,6 @@ SCT - Smart Charging Token- A decentralized Electric Vehicle Application Platfor
 GVT - GreenVenture Token - 
 RVC - RevenShield Token - Network Communication Protocol
 
-### Nordic Energy tokens usage, utility and values
-
-The utility role of the NET token is a primary consideration in the success of the models that intend to exploit their powers. NET tokens are multi-purpose instruments. Nordic Energy´s utility tokens can be exchanged for goods and services on a certain platforms. Nordic Energy tokens is a unit of value that an Nordic Energy creates to self-govern, our business model, and empower its users to interact with its products, platform while facilitating the distribution and sharing of rewards and benefits to all of it´s stakeholders.
-
 
 ##### The Nordic Energy tokens is used on the Nordic Energy platforms:
 
@@ -103,6 +102,9 @@ The Nordic Energy token will fuel blockchain-based technologies, facilitate acce
 
 Nordic Energy token is a very efficient payment method and transaction engine of choice. This is key for enabling frictionless transactions inside these closed environments. Nordic Energy´s own payment processors without the cumbersome or costly aspects of traditional financial settlement options, where tokens provide a much lower barrier for processing end-to-end transactions inside a given market.
 
+##### Nordic Energy tokens usage, utility and values:
+
+The utility role of the NET token is a primary consideration in the success of the models that intend to exploit their powers. NET tokens are multi-purpose instruments. Nordic Energy´s utility tokens can be exchanged for goods and services on a certain platforms. Nordic Energy tokens is a unit of value that an Nordic Energy creates to self-govern, our business model, and empower its users to interact with its products, platform while facilitating the distribution and sharing of rewards and benefits to all of it´s stakeholders.
 
 ##### The utility role of the NET token is a primary consideration in the success of the models that intend to exploit their powers. NET tokens are multi-purpose instruments:
 
@@ -114,7 +116,7 @@ Nordic Energy token is a very efficient payment method and transaction engine of
 
 4. NET token is a very efficient payment method and transaction engine of choice. This is key for enabling frictionless transactions inside these closed environments.
  
-Nordic Energy own payment processors without the cumbersome or costly aspects of traditional financial settlement options, where tokens provide a much lower barrier for processing end-to-end transactions inside a given market.
+5. Nordic Energy own payment processors without the cumbersome or costly aspects of traditional financial settlement options, where tokens provide a much lower barrier for processing end-to-end transactions inside a given market.
 
 
 
