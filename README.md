@@ -9,13 +9,13 @@ However, that process retains the existing dynamic of the electricity markets, c
 
 
 
-#### Platform architecture 
+## Platform architecture 
 
 PowerChain platform architecture is a highly scalable, next generation blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 
 
-#### PowerChain - Cross-Blockchain Network
+### PowerChain - Cross-Blockchain Network
 
 PowerChain is a direct consumer and digital energy marketplace connects with producers of renewable energies. Without detours and unnecessary additional costs. Our several projects and utilities around the world have already start developing pilots and considering projects to test this possibility.
 
