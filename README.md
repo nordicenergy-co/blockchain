@@ -1,7 +1,7 @@
 
 # Nordic Energy Infrastucture
 
-Nordic Energy´s PowerChain cross-platform architecture´s is a highly scalable, next generation cross-blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
+Nordic Energy cross-platform architecture is a highly scalable, next generation cross-blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 The Nordic Energy is in enabling a peer-to-peer energy trading model. The proliferation of Distributed Energy Grids (DERs) or independent renewable energy sources (such as solar panels) that connect to the grid has helped convert energy consumers into producers who are able to sell excess power back to the grid. 
 
