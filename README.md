@@ -20,12 +20,14 @@ PowerChain platform architecture is a highly scalable, next generation blockchai
 PowerChain is a direct consumer and digital energy marketplace connects with producers of renewable energies. Without detours and unnecessary additional costs. Our several projects and utilities around the world have already start developing pilots and considering projects to test this possibility.
 
 
-#### Decentralized Energy Marketplace:
+#### 1. Decentralized Energy Marketplace:
 
 Nordic Energy digital energy platform gives customers direct access to independent green electricity producers. Should it be electricity from the sun, water or wind? Generated regionally or centrally? Only for a short time or permanently? As a customer, you decide yourself.
 
+- Energy Capacity Market
 
-#### Peer-to-peer Energy Trading Platform
+
+#### 2. Peer-to-peer Energy Trading Platform
 
 Nordic Energy developing an app that enables energy trading between consumers in a neighborhood within the borough. Nordic Energy, a European startup, is focusing on the energy exchange platform of granular and private data between different parties within the energy market.
 
