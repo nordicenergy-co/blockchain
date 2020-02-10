@@ -120,7 +120,7 @@ with a real utility as a cryptocurrency. 
 
 
 
-### Offial Websites
+### Official Websites
 
 https://nordicenergy.io
 
