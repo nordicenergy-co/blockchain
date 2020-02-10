@@ -9,28 +9,28 @@ However, that process retains the existing dynamic of the electricity markets, c
 
 
 
-Platform architecture 
-````
+#### Platform architecture 
+
 PowerChain platform architecture is a highly scalable, next generation blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 
 
-PowerChain - Cross-Blockchain Network
-````
+#### PowerChain - Cross-Blockchain Network
+
 PowerChain is a direct consumer and digital energy marketplace connects with producers of renewable energies. Without detours and unnecessary additional costs. Our several projects and utilities around the world have already start developing pilots and considering projects to test this possibility.
 
 
-Decentralized Energy Marketplace:
-````
+#### Decentralized Energy Marketplace:
+
 Nordic Energy digital energy platform gives customers direct access to independent green electricity producers. Should it be electricity from the sun, water or wind? Generated regionally or centrally? Only for a short time or permanently? As a customer, you decide yourself.
 
 
-Peer-to-peer Energy Trading Platform
-````
+#### Peer-to-peer Energy Trading Platform
+
 Nordic Energy developing an app that enables energy trading between consumers in a neighborhood within the borough. Nordic Energy, a European startup, is focusing on the energy exchange platform of granular and private data between different parties within the energy market.
 
 
-Protocol:
+## Protocol
 
 Smart contracts runs on the Delegated Proof of Stake protocol (DPoS), staking is more energy efficient compared to replace with the actual physical transfer of solar and wind energy, and for now, sit the principles of the energy solutions to better than other renewable energy protocols and using a multiple differential platform. 
 
@@ -38,7 +38,7 @@ Smart Contract aims to provide a novel blockchain solution to meet the speed and
 
 
 
-# Token Economies
+## Token Economies
 
 
 
@@ -68,7 +68,7 @@ Nordic Energy own payment processors without the cumbersome or costly aspects of
 
 
 
-#### Stablecoins
+### Stablecoins
 
 Nordic Energy (NESC) stablecoin uses a stake-distributed Byzantine Fault Tolerance (sdBFT) consensus algorithm. It has a higher operational capacity than other BFT algorithms and allows for stake-based on-chain token holder voting, removing the need for intensive computations. Blocks in NESC are minted rather than mined.
 
