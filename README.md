@@ -48,6 +48,12 @@ Nordic Energy digital energy platform gives customers direct access to independe
 
 Nordic Energy developing an app that enables energy trading between consumers in a neighborhood within the borough. Nordic Energy, a European startup, is focusing on the energy exchange platform of granular and private data between different parties within the energy market.
 
+#### 3.Hybrid Token Offering (HTO) & Token Sales Launcher
+
+(need more time for the developments/upgrading to this Platform supported only NET Token.
+
+https://nordicenergy.app
+
 
 ## Protocol´s
 
@@ -68,6 +74,7 @@ NET - Deflation model, pre-mined, limited supply, growing price
 NEST - Security Token for investors and corporation asset backed token
 SCT - Smart Charging Token- A decentralized Electric Vehicle Application Platform 
 GVT - GreenVenture Token - 
+RVC - RevenShield Token - Network Communication Protocol
 
 ### Nordic Energy tokens usage, utility and values
 
@@ -112,6 +119,17 @@ The NESC Stable coin offers the transparent, fast, uncensorable, and energy-effi
 with a real utility as a cryptocurrency. 
 
 
+
+### Offial Websites
+
+https://nordicenergy.io
+
+https://nordicenergy.co
+
+### Blog:
+
+Coming soon!
+
 ## Additional Projects
 
 
@@ -124,16 +142,22 @@ Project website: https://smartcharging.solutions
 
 #### 4. Green Ventures - Environmental Fundraising Platform
 
+##### Building smart societies:
+
+Blockchains or distributed ledgers are an emerging technology that has drawn considerable interest from energy supply firms, startups, technology developers, manufacturers, distributors, financial institutions, national governments and the academic community. Numerous sources coming from these backgrounds identify blockchains as having the potential to bring significant benefits and innovation.
+
+##### GreenVentures Mission?
+ 
 Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
 
-Whitepaper: Link
+(https://ravenshield.nordicenergy.io/docs/whitepaper) Site is under developments!
 
 
 #### 5. RavenShield - Network Communication Protocol
 
 The Nordic Energy RavenShield is a radio network for off-grid messaging and cryptocurrency transactions without access to the internet. The main objective is a long range network for everyone, everywhere. For this reason we are working not only in a protocol, but also the firmware for affordable devices like the Turpial, Harpia, or their DIY equivalents. We adhere to open source ethos at every step and aim to make this tool as decentralized as possible so users can transmit with freedom.
 
-If you want to learn more about RavenShield feel free to read the RavenShield [main repository] (https://github.com/nordicenergy/ravenshield) Whitepaper: or take a look at our website:https://revenshield.nordicenergy.io
+If you want to learn more about RavenShield feel free to read the RavenShield [main repository](https://github.com/nordicenergy/ravenshield). (Whitepaper) or take a look at our website:https://revenshield.nordicenergy.io
 
 
 
