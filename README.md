@@ -149,48 +149,51 @@ https://nordicenergy.co
 
 Coming soon!
 
+#
 
 
 ## Additional Projects
 
 
-#### 3. Smart Charging Solutions
 
-##### A decentralized Electric Vehicle Application Platform. 
+### 3. Smart Charging Solutions
+
+#### A decentralized Electric Vehicle Application Platform. 
 
 Project website: https://smartcharging.solutions
 
 
-#### 4. Green Ventures - Environmental Fundraising Platform
+### 4. Green Ventures - Environmental Fundraising Platform
 
-##### Building smart societies:
+#### Building smart societies:
 
 Blockchains or distributed ledgers are an emerging technology that has drawn considerable interest from energy supply firms, startups, technology developers, manufacturers, distributors, financial institutions, national governments and the academic community. Numerous sources coming from these backgrounds identify blockchains as having the potential to bring significant benefits and innovation.
 
 
-##### Supplying energy to homes across the globe involves four key elements:
+#### Supplying energy to homes across the globe involves four key elements:
 
 Making electricity through generation transporting clean energy and electricity and selling it to the customer. Energy companies like Nordic Energy can work in any of these different areas, and some operate in all of them. The electricity and gas markets in the EU are privatized. This means that Nordic Energy make sure we have the energy that we need. It also means that customers can choose which companies supply their energy.
 
-
-
 To overcome the negative impacts on the environment and other problems associated with fossil fuels have forced many countries to inquire into and change to environmentally friendly alternatives that are renewable to sustain the increasing energy demand:Solar energy is one of the best renewable energy sources with least negative impacts on the environment. Different countries have formulated solar energy policies to reducing dependence on fossil fuel and increasing domestic energy production by solar energy. In economic terms, electricity is a commodity capable of being bought, sold, and traded... retail from the natural monopoly functions of transmission and distribution; and establish a wholesale electricity market and a retail electricity market.
 
-##### GreenVentures Mission?
+
+#### GreenVentures Mission?
  
 Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
 
 (https://ravenshield.nordicenergy.io/docs/whitepaper) Site is under developments!
 
 
-#### 5. RavenShield - Network Communication Protocol
+### 5. RavenShield - Network Communication Protocol
 
 The Nordic Energy RavenShield is a radio network for off-grid messaging and cryptocurrency transactions without access to the internet. The main objective is a long range network for everyone, everywhere. For this reason we are working not only in a protocol, but also the firmware for affordable devices like the Turpial, Harpia, or their DIY equivalents. We adhere to open source ethos at every step and aim to make this tool as decentralized as possible so users can transmit with freedom.
 
 If you want to learn more about RavenShield feel free to read the RavenShield [main repository](https://github.com/nordicenergy/ravenshield). (Whitepaper) or take a look at our website:https://revenshield.nordicenergy.io
 
+#
 
-### Do You have Any questions?
+
+## Do You have Any questions?
 
 Email Address: info@nordicenergy.io
 
