@@ -126,16 +126,19 @@ https://nordicenergy.io
 
 https://nordicenergy.co
 
+
 ### Blog:
 
 Coming soon!
+
+
 
 ## Additional Projects
 
 
 #### 3. Smart Charging Solutions
 
-A decentralized Electric Vehicle Application Platform. 
+##### A decentralized Electric Vehicle Application Platform. 
 
 Project website: https://smartcharging.solutions
 
@@ -159,6 +162,11 @@ The Nordic Energy RavenShield is a radio network for off-grid messaging and cryp
 
 If you want to learn more about RavenShield feel free to read the RavenShield [main repository](https://github.com/nordicenergy/ravenshield). (Whitepaper) or take a look at our website:https://revenshield.nordicenergy.io
 
+
+
+###### Do You have Any questions?
+
+Email Address: info@nordicenergy.io
 
 
 
