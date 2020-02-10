@@ -11,15 +11,12 @@ Building an new generation energy infrastructure to bridge renewable energy p
 Nordic Energy (Trading Company) is responsible for the production, purchase, selling electricity and energy certificates via smart contract based blockchain technologies. We use cross-blockchain technologies for a broad range of our businesses, decentralized applications (dApps), supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates. Developing for innovation is a critical element of progress within energy industries, but driving adoption is equally important. We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open source development within the next energy revolution.
 
 
-### Energy certificates via smart contract based blockchain technologies
-
-Nordic Energy (Trading Company) is responsible for the production, purchase and selling of energy and energy certificates via smart contract based blockchain technologies. We use blockchain technology for a broad range of our businesses, decentralized applications, supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
-
 ## Problems & Solutions
 
 ##### Prices of Electricity Rising In The 2019 First Quarter:
 
 According to Statistics Finland's data, the exchange price of electricity rose clearly in the first quarter of the year, which was also reflected in the end user prices of electricity. Tax increases at the beginning of the year raised the prices of some fuels but no clear development trend could be detected for fuels. 
+
 
 ##### Decentralized Energy Supply and Electricity Market Structure:
 
@@ -49,6 +46,11 @@ PowerChain is Peer-to-Peer electricity blockchain trading platform to achieve tr
 PowerChain platform architecture is a highly scalable, next generation blockchain platform goes beyond state of the art and can be seen as an to achieve a better state between security, most fastest transactions, scalability and decentralization, allowing each node in the shard to determine the members of the consensus. 
 
 PowerChain is a direct consumer and digital energy marketplace connects with producers of renewable energies. Without detours and unnecessary additional costs. Our several projects and utilities around the world have already start developing pilots and considering projects to test this possibility.
+
+
+### Energy certificates via smart contract based blockchain technologies
+
+Nordic Energy (Trading Company) is responsible for the production, purchase and selling of energy and energy certificates via smart contract based blockchain technologies. We use blockchain technology for a broad range of our businesses, decentralized applications, supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
 
 
 #### 1. Decentralized Energy Marketplace:
