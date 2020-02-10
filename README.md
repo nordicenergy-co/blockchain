@@ -8,8 +8,22 @@ Nordic Energy connects you digitally directly to the green source of your choice
 
 Building an new generation energy infrastructure to bridge renewable energy producers’ output and traditional energy grid operators to accelerate a worldwide transition towards a 100% renewable energy future. With renewable energy supply chains, and operational management for energy industry. Supplying energy to homes across the globe, making electricity through generation transporting clean energy and electricity and selling it to the customers.
 
-Nordic Energy (Trading Company) is responsible for the production, purchase, selling electricity and energy certificates via smart contract based blockchain technologies. We use cross-blockchain technologies for a broad range of our businesses, decentralized applications (dApps), supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates. Developing for innovation is a critical element of progress within energy industries, but driving adoption is equally important. We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open source development within the next energy revolution
+Nordic Energy (Trading Company) is responsible for the production, purchase, selling electricity and energy certificates via smart contract based blockchain technologies. We use cross-blockchain technologies for a broad range of our businesses, decentralized applications (dApps), supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates. Developing for innovation is a critical element of progress within energy industries, but driving adoption is equally important. We also believe the best innovation and biggest progress comes from opening our doors to the community, which is why we are dedicated to education and open source development within the next energy revolution.
 
+
+### Energy certificates via smart contract based blockchain technologies
+
+Nordic Energy (Trading Company) is responsible for the production, purchase and selling of energy and energy certificates via smart contract based blockchain technologies. We use blockchain technology for a broad range of our businesses, decentralized applications, supply chains, energy demand and financial applications. Nordic Energy connects energy buyers (end-users and investors) directly with green energy producers and creates an opportunity to purchase electricity upfront at or below market rates.
+
+## Problems & Solutions
+
+##### Prices of Electricity Rising In The 2019 First Quarter:
+
+According to Statistics Finland's data, the exchange price of electricity rose clearly in the first quarter of the year, which was also reflected in the end user prices of electricity. Tax increases at the beginning of the year raised the prices of some fuels but no clear development trend could be detected for fuels. 
+
+##### Decentralized Energy Supply and Electricity Market Structure:
+
+Today’s energy systems are mainly centrally organized and power is transported mostly unidirectionally from big power plants to consumers of energy. Because the electric power sector is highly regulated, policymakers will play a crucial role in determining how much of blockchain’s potential can be realized. In order to effectively regulate blockchain, policymakers should first invest in understanding it. At the same time Liberalization of electricity markets leads to a division of electricity transport and generation, which leaves potential economies of scope of combined planning of generation and transmission behind. 
 
 
 ## Cross-Platforms & Blockchain Architectures 
@@ -149,6 +163,15 @@ Project website: https://smartcharging.solutions
 
 Blockchains or distributed ledgers are an emerging technology that has drawn considerable interest from energy supply firms, startups, technology developers, manufacturers, distributors, financial institutions, national governments and the academic community. Numerous sources coming from these backgrounds identify blockchains as having the potential to bring significant benefits and innovation.
 
+
+##### Supplying energy to homes across the globe involves four key elements:
+
+Making electricity through generation transporting clean energy and electricity and selling it to the customer. Energy companies like Nordic Energy can work in any of these different areas, and some operate in all of them. The electricity and gas markets in the EU are privatized. This means that Nordic Energy make sure we have the energy that we need. It also means that customers can choose which companies supply their energy.
+
+
+
+To overcome the negative impacts on the environment and other problems associated with fossil fuels have forced many countries to inquire into and change to environmentally friendly alternatives that are renewable to sustain the increasing energy demand:Solar energy is one of the best renewable energy sources with least negative impacts on the environment. Different countries have formulated solar energy policies to reducing dependence on fossil fuel and increasing domestic energy production by solar energy. In economic terms, electricity is a commodity capable of being bought, sold, and traded... retail from the natural monopoly functions of transmission and distribution; and establish a wholesale electricity market and a retail electricity market.
+
 ##### GreenVentures Mission?
  
 Our Mission is Our goal is to build smart societies where digital, automated services help to build trust between different parties. The green investment scheme sets up the requirements for the trade in surplus assigned amount units on the international market. Everyone knows, that this is one of the most awful things you can do to our life and nature. But humanity needs clean water, air, electricity, woods and shelters. A cycle of escalation. As humanity grows, energy consumption does too. Nordic Energy & Co. realizes this issue and wants to resolve it!
@@ -168,4 +191,4 @@ If you want to learn more about RavenShield feel free to read the RavenShield [m
 Email Address: info@nordicenergy.io
 
 
-
+Please join Us? Together we make a difference!
