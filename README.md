@@ -1,6 +1,8 @@
 
 # Nordic Energy Infrastucture
 
+### Smart grids at the core of energy services
+
 Nordic Energy connects you digitally directly to the green source of your choice. We buy your electricity from the selected producer and ensure that the corresponding amount of green electricity is produced and fed into the electricity grid. For this we use the most modern blockchain technology, which allows us to avoid unnecessary detours via middlemen and power exchanges. This makes green electricity significantly cheaper, producers generate higher yields, and the electricity grid becomes a little greener with every new Nordic Energy customer.
 
 
